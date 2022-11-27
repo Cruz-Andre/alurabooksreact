@@ -1,3 +1,9 @@
+# Site AluraBooks em React
+##  Alura curso: React: crie sua primeira página web
+Criação de componentes; uso do styled components, useState e props.
+#### Github Pages: 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
