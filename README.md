@@ -1,7 +1,7 @@
 # Site AluraBooks em React
 ##  Alura curso: React: crie sua primeira página web
 Criação de componentes; uso do styled components, useState e props.
-#### Github Pages: 
+#### Vercel Pages: https://alurabooksreact.vercel.app/
 
 
 # Getting Started with Create React App
