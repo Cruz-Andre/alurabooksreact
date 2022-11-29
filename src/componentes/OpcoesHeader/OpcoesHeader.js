@@ -2,6 +2,8 @@ import styled from 'styled-components'
 
 const Opcoes = styled.ul`
 	display: flex;
+	padding: 0;
+	column-gap: 1rem;
 `
 
 const Opcao = styled.li`
@@ -9,11 +11,14 @@ const Opcao = styled.li`
     justify-content: center;
     align-items: center;
     text-align: center;
-    min-width: 120px;
-    height: 100%;
     cursor: pointer;
     padding: 0 5px;
     font-size: 16px;
+	&:hover {
+		background: linear-gradient(90deg, #002F52 35%, #326589);
+		color: aliceblue;
+		border-radius: 10px;
+	}
 ` 
 
 const textoOpcoes = ['CATEGORIAS', 'FAVORITOS', 'MINHA ESTANTE']

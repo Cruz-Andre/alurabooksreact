@@ -5,11 +5,12 @@ import styled from 'styled-components'
 const Icones = styled.ul`
 	display: flex;
     align-items: center;
+	gap:10px;
+	padding: 0
 `
 
 const Icone = styled.li`
-	margin-right: 40px;
-    width: 25px;
+    margin-right: 10px;
 `
 
 const icones = [perfil, sacola]
