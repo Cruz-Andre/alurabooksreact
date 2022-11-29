@@ -1,6 +1,9 @@
 # Site AluraBooks em React
 ##  Alura curso: React: crie sua primeira página web
-Criação de componentes; uso do styled components, useState e props.
+- Criação de componentes, uso do styled components, useState e props. 
+- Pesquisando independente de ser maiúscula ou minúscula.
+- To-do: colocar os estilos em um arquivo separado.
+- A discutir: não vi vantagem em criar um componente só como estilo para reusar em outros componentes, parece que fica mais poluído o cógido.
 #### Vercel Pages: https://alurabooksreact.vercel.app/
 
 
